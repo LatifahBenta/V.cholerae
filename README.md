@@ -15,7 +15,7 @@
 
     From our study these are our expected outcomes:
 
-  * Enhanced understanding of *V. cholerae* pathogenesis and adaptation.
+* Enhanced understanding of *V. cholerae* pathogenesis and adaptation.
  
-  * Insights into cholera epidemiology for guiding public health startegies.
+* Insights into cholera epidemiology for guiding public health startegies.
     
