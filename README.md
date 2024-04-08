@@ -13,7 +13,7 @@
 
     * Analyze molecular epidemiology to understand cholera transmission dynamics and strain evolution.
 
-    From our study these are our expected outcomes:
+    From our study, these are our expected outcomes:
 
 * Enhanced understanding of *V. cholerae* pathogenesis and adaptation.
  
