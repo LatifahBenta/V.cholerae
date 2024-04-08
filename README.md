@@ -9,9 +9,9 @@
 
 * Antibiotic Resistance and Molecular Epidemiology
 
-      * Examine genetic determinants of antibiotic resistance in circulating Vibrio cholerae strains.
+   * Examine genetic determinants of antibiotic resistance in circulating Vibrio cholerae strains.
 
-      * Analyze molecular epidemiology to understand cholera transmission dynamics and strain evolution.
+    * Analyze molecular epidemiology to understand cholera transmission dynamics and strain evolution.
 
     From our study these are our expected outcomes:
     
