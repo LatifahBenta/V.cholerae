@@ -5,11 +5,13 @@
 
   * Conduct comparative genomics to pinpoint key virulence factors and regulatory elements.
 
-     * Sequence diverse Vibrio cholerae genomes to identify genetic variations linked to pathogenicity and epidemic potential.
+  * Sequence diverse Vibrio cholerae genomes to identify genetic variations linked to pathogenicity and epidemic potential.
 
   * Antibiotic Resistance and Molecular Epidemiology
-                  * Examine genetic determinants of antibiotic resistance in circulating Vibrio cholerae strains.
-                  * Analyze molecular epidemiology to understand cholera transmission dynamics and strain evolution.
+
+      * Examine genetic determinants of antibiotic resistance in circulating Vibrio cholerae strains.
+
+      * Analyze molecular epidemiology to understand cholera transmission dynamics and strain evolution.
 
     From our study these are our expected outcomes:
     
