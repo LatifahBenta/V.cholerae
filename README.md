@@ -28,5 +28,5 @@ From our study, these are our expected outcomes:
 
 ![*V. cholerae*](https://media.sciencephoto.com/c0/07/60/88/c0076088-800px-wm.jpg)
 
-Here is the link to our wiki page 
+To see more of our work, use this link to visit our wiki https://github.com/LatifahBenta/V.cholerae/wiki 
     
